@@ -40,3 +40,8 @@ APP
     preprocess.py: chứa các hàm tiền xử lý văn bản nhằm đảm bảo 
     dữ liệu đầu vào của website được xử lý giống với dữ liệu sử dụng trong 
     quá trình huấn luyện mô hình.
+NOTEBOOK
+
+MODEL
+
+DATA
