@@ -58,7 +58,8 @@ Cdcs_Phishingemail
 │   └── tfidf.pkl
 │
 ├── notebook
-│   └── phishing_detection.ipynb
+│   ├── main.ipynb
+│   └── test.ipynb
 │
 ├── README.md
 │
@@ -136,8 +137,8 @@ Bộ TF-IDF Vectorizer đã được huấn luyện trên toàn bộ tập dữ 
 
 Chứa Notebook dùng để nghiên cứu, huấn luyện và đánh giá mô hình.
 
-### phishing_detection.ipynb
-
+### main.ipynb
+Đây là nơi chứa code chính
 Bao gồm các bước:
 
 * Khám phá dữ liệu.
